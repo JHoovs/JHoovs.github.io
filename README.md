@@ -61,7 +61,16 @@
 
 Scientific advice and suggestions on the utility of current and potential features of the bioinformatics software and solutions, focusing on algorithms, statistical methods, and user experience.
 
+## Talks, Interviews and Podcasts (Selected)
+- **Transition from PhD to Industry | Data Science | AI | ML | Novo Nordisk | Denmark | Vivek Das** (https://youtu.be/NPx31UgMHC8?si=yNkqnyIisBIPOV1F)
 
+-  **Vivek Das Novo Nordisk KGDD4** (https://youtu.be/4oGDmodbeJc?si=5P46zokm6XNR05uX)
+
+-  **From omics to insights in early drug discovery and late-stage clinical development** (https://www.youtube.com/watch?v=Vzl4_G_KVj4)
+
+-  **Podcast** *Being a Bioinformatician : Dr. Vivek Das* (https://open.spotify.com/episode/3P849xuT3NNXi5IkMpieRy)
+
+-  **Computational Biologist Interview** (https://theinterviewportal.com/2021/04/12/computational-biologist-interview-7/)
 ## How to reach out
 
 - 📫 vivekdas.0687@gmail.com
