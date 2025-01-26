@@ -7,11 +7,11 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 
 👀 I work on finding therapeutic target or biomarkers (prognostic/predictive) for multiple cardiometabolic (e.g. Chronic Kidney, Atherosclerosis, Diabetes, Liver, Neurodegenrative, etc.) diseases combining data-driven and knowledge-driven avenues by leveraging the integration of bulk and single cell multi-omics data alongside clinical data from human observational cohorts and clinical trials
 
-🌱 I currently collaborate, lead studies or projects and team of exceptional clinical data scientists and bioinformaticians involving single-cell transcriptomics, spatial transcriptomics, proteomics, metabolomics, multi-omics data integration, clinical data integration to achieve the above
+🌱 I currently collaborate, mentor PhD/PostDocs/Data Scientists, lead studies or projects and, a team of exceptional clinical data scientists and bioinformaticians involving single-cell transcriptomics, spatial transcriptomics, proteomics, metabolomics, multi-omics data integration, clinical data integration to achieve the above
 
-💻 I also worked on omics projects involving preclinical data with interventional designs e.g. knockout or drug treated at single cell or bulk multi-omics level
+💻 I also worked on omics projects involving preclinical data with interventional designs e.g. knockout or drug-treated at single cell or bulk multi-omics level
 
-💞️ I also collaborate on developing applied machine learning models using publicly available data with curious students or researchers and contribute to open science and open source modeling. I am fascinated by the potential of high-dimnesional and high-throughput biomedical data.
+💞️ I also collaborate on developing applied machine learning models using publicly available data with curious students or researchers and contribute to open science and open source modeling. I am fascinated by the potential of high-dimensional and high-throughput biomedical data.
 
 ## Publications
 
@@ -41,6 +41,28 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 - **Masters in Science in Bioinformatics** from Birla Institute of Technology, Mesra, India *2008-2010*
   
 - **Bachelor in Biotechnology** (Chemistry, Mathematics & Zoology) from PESIAS, Bangalore, India *2005-2008*
+
+## Consortium and Collaborations
+
+I have collaborated with various biotech, pharmaceutical companies, universities, and hospitals within and outside my current job across projects, leading work packages, team, supervision of PhD and Post-Doctorial researchers.
+
+Consortium I have been part of:
+
+- [IMI BEAt-DKD](https://www.beat-dkd.eu/)
+  
+- [Renal Pre-competitive consortia](https://www.genengnews.com/news/astrazeneca-medimmune-lilly-join-u-m-in-ckd-consortium/)
+
+- [Karolinkska Institute - Novo Nordisk A/S collaboration](https://ki.se/en/collaboration/industry-collaborations/research-collaboration-with-other-companies/partnership-between-ki-and-novo-nordisk-focusing-on-target-biomarker-discovery-in-atherosclerosis)
+
+- [Danish Diabetes Endocrine Society Scholarship with Rinschen Lab Aarhus University with co-funding from Novo Nordisk A/S](https://ddeacademy.dk/researchers/diabetes/dongwoo-choi-msc/)
+
+- [novoSTAR Post-Doctoral collaboration between NN A/S and RWTH Aachen University with Kramman Lab and Hayat lab](https://www.rwth-aachen.de/cms/root/die-rwth/aktuell/pressemitteilungen/januar-2025/~blgdkf/ein-atlas-fuer-gefaessverkalkungen-im-me/?lidx=1)
+
+- [Prof. Rajat K. De lab, Machine Intelligence Unit, Indian Statistical Institute, ISI, Kolkata, India](https://www.isical.ac.in/~rajat/)
+
+- [Michigan Kidney Translational Medicine Center](https://www.miktmc.org/about)
+
+- [Transformative Research In DiabEtic NephropaThy, or TRIDENT](https://www.med.upenn.edu/trident/about.html)
 
 ## Open source projects
 
