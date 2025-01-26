@@ -5,9 +5,9 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 ## About Me
 👋 Hi, I’m Vivek Das
 
-👀 I work on finding therapeutic target or biomarkers (prognostic/predictive) for multiple cardiometabolic (e.g. Chronic Kidney, Atherosclerosis, Diabetes, Liver, Neurodegenrative, etc.) diseases combining data-driven and knowledge-driven avenues by leveraging the integration of bulk and single cell multi-omics data alongside clinical data from human observational cohorts and clinical trials
+👀 I work on finding therapeutic targets or biomarkers (prognostic/predictive) for multiple cardiometabolic (e.g. Chronic Kidney, Atherosclerosis, Diabetes, Liver, Neurodegenerative, etc.) diseases combining data-driven and knowledge-driven avenues by leveraging the integration of bulk and single-cell multi-omics data alongside clinical data from human observational cohorts and clinical trials
 
-🌱 I currently collaborate, mentor PhD/PostDocs/Data Scientists, lead studies or projects and, a team of exceptional clinical data scientists and bioinformaticians involving single-cell transcriptomics, spatial transcriptomics, proteomics, metabolomics, multi-omics data integration, clinical data integration to achieve the above
+🌱 I currently collaborate, mentor PhD/PostDocs/Data Scientists, lead studies/projects and a team of exceptional clinical data scientists and bioinformaticians involving single-cell transcriptomics, spatial transcriptomics, proteomics, metabolomics, multi-omics data integration, clinical data integration to achieve the above
 
 💻 I also worked on omics projects involving preclinical data with interventional designs e.g. knockout or drug-treated at single cell or bulk multi-omics level
 
@@ -28,7 +28,7 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 
 - **Post Doctoral Scientist in Novo Nordisk A/S** - *2018-2021* - Early Research in Seattle, USA
 
-    Industrial research for biomarkers and target discovery in T1D, Immunology, and Kidney Research Unit through integrative systems medicine approach as a part of IMI delivery. Special focus on Diabetes and Chronic Kidney Diseases(currently End-Stage) as a part of integrating multi-omics discovery(NGS, Microarray, targeted NanoString Panels and Clinical data) from varied tissue sources extracted from patients/model organisms and deliver new research insights for therapies.
+    Industrial research for biomarkers and target discovery in T1D, Immunology, and Kidney Research Unit through integrative systems medicine approach as a part of IMI delivery. Special focus on Diabetes and Chronic Kidney Diseases(currently End-Stage) as a part of integrating multi-omics discovery(NGS, Microarray, targeted NanoString Panels and Clinical data) from varied tissue sources extracted from patients/model organisms to deliver new research insights for therapies.
 
 - **Post Doctoral Scientist in European Institute of Oncology** - *2017-2018* - Early Oncology Research in Milan, Italy
 
@@ -44,9 +44,9 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 
 ## Consortium and Collaborations
 
-I have collaborated with various biotech, pharmaceutical companies, universities, and hospitals within and outside my current job across projects, leading work packages, team, supervision of PhD and Post-Doctorial researchers.
+I have collaborated with a few biotech, pharmaceutical companies in pre-competitive space, universities, and hospitals within and outside my current job across projects, leading work packages, team, supervision of PhD and Post-Doctorial researchers.
 
-Consortium I have been part of:
+Consortium and collaborations I have been part of:
 
 - [IMI BEAt-DKD](https://www.beat-dkd.eu/)
   
