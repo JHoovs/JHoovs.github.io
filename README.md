@@ -40,7 +40,7 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
   
 - **Masters in Science in Bioinformatics** from Birla Institute of Technology, Mesra, India *2008-2010*
   
-- **Bachelor in Biotechnology** (Chemistry, Mathematics and Zoology) from PESIAS, Bangalore, India *2005-2008*
+- **Bachelor in Biotechnology** (Chemistry, Mathematics & Zoology) from PESIAS, Bangalore, India *2005-2008*
 
 ## Open source projects
 
