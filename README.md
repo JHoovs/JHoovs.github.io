@@ -35,9 +35,12 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
   Post PhD project follow-ups, transition and closure in both the cancer models (Glioblastoma recurrence and Ovarian Cancer) that I have worked on past 4.5 years using NGS technologies for Omics integration (from patients to gene networks).
 
 ## Education
-- PhD in Molecular Medicine (Curriculum Computational Systems Biology) from European School of Molecular Medicine, SEMM, Milan, Italy (2012-2017)
-- Masters in Science in Bioinformatics from Birla Institute of Technology, Mesra, India (2008-2010)
-- Bachelor in Biotechnology (Chemistry, Mathematics and Zoology) from PESIAS, Bangalore, India (2005-2008)
+
+- **PhD in Molecular Medicine** (Curriculum Computational Systems Biology) from European School of Molecular Medicine, SEMM, Milan, Italy *2012-2017*
+  
+- **Masters in Science in Bioinformatics** from Birla Institute of Technology, Mesra, India *2008-2010*
+  
+- **Bachelor in Biotechnology** (Chemistry, Mathematics and Zoology) from PESIAS, Bangalore, India *2005-2008*
 
 ## Open source projects
 
