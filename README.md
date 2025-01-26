@@ -47,6 +47,8 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 
 - Single Cell type Annotation modeling [CASSL](https://github.com/deeplearner87/CASSL)
 
+- Single Cell Multiomics integration and feature selection [UMINT-FS](https://github.com/shallowlearner93/UMINT-FS)
+
 - Metabolomics feature selection [plantmetaBolGCMS](https://github.com/vd4mmind/plantmetaBolGCMS)
 
 ## Board Member
@@ -74,13 +76,16 @@ Scientific advice and suggestions on the utility of current and potential featur
 - [LinkedIn](https://www.linkedin.com/in/vivek-das-phd-m-sc-b1110b25/)
 
 ## Technical blogging
+
 - [Biostars](https://www.biostars.org/accounts/profile/8620/)
 
 ## General blogging
+
 - [Medium](https://medium.com/@ivivek87)
 - [ResearchGate](https://www.researchgate.net/profile/Vivek-Das-4)
 
 ## Topic of interest
+
 - Technical Leadership
 - Applied Statistics and Applied Machine Learning
 - Multi omics and clinical data integration
