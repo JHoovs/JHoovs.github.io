@@ -111,7 +111,7 @@ Scientific advice and suggestions on the utility of current and potential featur
 
 ## Topic of interest
 
-- Technical Leadership
+- Leadership
 - Applied Statistics and Applied Machine Learning
 - Multi omics and clinical data integration
 - Drug Target Identification
@@ -126,7 +126,6 @@ Scientific advice and suggestions on the utility of current and potential featur
 - Digital Strategy
 - Software products
 - Team building
-- Leadership
 - Mentorship
 - Open-source project
 
