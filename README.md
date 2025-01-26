@@ -1,5 +1,7 @@
 # Welcome to my webpage
 
+This website is built using GitHub Pages, Jekyll and GitHub Actions (*under active development*)
+
 ## About Me
 👋 Hi, I’m Vivek Das
 
@@ -39,13 +41,13 @@
 
 ## Open source projects
 
-- Multiomics Feature Extraction model using Autoencoders ([https://github.com/vd4mmind/multiOmicsIntegration](multOmicsIntegration))
+- Multiomics Feature Extraction model using Autoencoders [multOmicsIntegration](https://github.com/vd4mmind/multiOmicsIntegration)
 
-- Single Cell Multiomics integration model ([https://github.com/deeplearner87/UMINT](UMINT))
+- Single Cell Multiomics integration model [UMINT](https://github.com/deeplearner87/UMINT)
 
-- Single Cell type Annotation modeling ([https://github.com/deeplearner87/CASSL](CASSL))
+- Single Cell type Annotation modeling [CASSL](https://github.com/deeplearner87/CASSL)
 
-- Metabolomics feature selection ([https://github.com/vd4mmind/plantmetaBolGCMS](plantmetaBolGCMS))
+- Metabolomics feature selection [plantmetaBolGCMS](https://github.com/vd4mmind/plantmetaBolGCMS)
 
 ## Board Member
 
@@ -55,28 +57,28 @@ Scientific advice and suggestions on the utility of current and potential featur
 
 ## Talks, Interviews and Podcasts (Selected)
 
-- **[Transition from PhD to Industry]([url](https://youtu.be/NPx31UgMHC8?si=yNkqnyIisBIPOV1F))** (https://youtu.be/NPx31UgMHC8?si=yNkqnyIisBIPOV1F)
+- [Transition from PhD to Industry](https://youtu.be/NPx31UgMHC8?si=yNkqnyIisBIPOV1F)
 
-- [**Vivek Das Novo Nordisk KGDD4**]([url](https://youtu.be/4oGDmodbeJc?si=5P46zokm6XNR05uX)) (https://youtu.be/4oGDmodbeJc?si=5P46zokm6XNR05uX)
+- [Vivek Das Novo Nordisk KGDD4](https://youtu.be/4oGDmodbeJc?si=5P46zokm6XNR05uX)
 
--  [**From omics to insights in early drug discovery and late-stage clinical development**]([url](https://www.youtube.com/watch?v=Vzl4_G_KVj4)) (https://www.youtube.com/watch?v=Vzl4_G_KVj4)
+- [From omics to insights in early drug discovery and late-stage clinical development](https://www.youtube.com/watch?v=Vzl4_G_KVj4)
 
--  [**Podcast** *Being a Bioinformatician : Dr. Vivek Das*]([url](https://open.spotify.com/episode/3P849xuT3NNXi5IkMpieRy)) (https://open.spotify.com/episode/3P849xuT3NNXi5IkMpieRy)
+- [Podcast Being a Bioinformatician : Dr. Vivek Das](https://open.spotify.com/episode/3P849xuT3NNXi5IkMpieRy)
 
--  [**Computational Biologist Interview** ]([url](https://theinterviewportal.com/2021/04/12/computational-biologist-interview-7/))(https://theinterviewportal.com/2021/04/12/computational-biologist-interview-7/)
+- [Computational Biologist Interview](https://theinterviewportal.com/2021/04/12/computational-biologist-interview-7/)
 
   
 ## How to reach out
 
 - 📫 vivekdas.0687@gmail.com
-- **[LinkedIn]([url](https://www.linkedin.com/in/vivek-das-phd-m-sc-b1110b25/))** (https://www.linkedin.com/in/vivek-das-phd-m-sc-b1110b25/)
+- [LinkedIn](https://www.linkedin.com/in/vivek-das-phd-m-sc-b1110b25/)
 
 ## Technical blogging
-- **[Biostars]([url](https://www.biostars.org/accounts/profile/8620/))** (https://www.biostars.org/accounts/profile/8620/)
+- [Biostars](https://www.biostars.org/accounts/profile/8620/)
 
 ## General blogging
-- **[Medium]([url](https://medium.com/@ivivek87))** (https://medium.com/@ivivek87)
-- **[ResearchGate]([url](https://www.researchgate.net/profile/Vivek-Das-4))** (https://www.researchgate.net/profile/Vivek-Das-4)
+- [Medium](https://medium.com/@ivivek87)
+- [ResearchGate](https://www.researchgate.net/profile/Vivek-Das-4)
 
 ## Topic of interest
 - Technical Leadership
