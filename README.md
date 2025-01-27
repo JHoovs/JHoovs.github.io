@@ -24,15 +24,19 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
   
 - **Senior Research Scientist in Novo Nordisk A/S** - *2021-2023* - Early Drug Discovery, Malov, Denmark
 
-  In-silico Target and Biomarker discovery using high dimensional bulk/single-cell multi-Omics data, analysis, visualization and integration with clinical phenotypic measurements using advanced statistics and ML
+  In-silico Target and Biomarker discovery using high dimensional bulk/single-cell multi-Omics data, analysis, visualization and integration with clinical phenotypic measurements using advanced statistics and ML.
 
 - **Post Doctoral Scientist in Novo Nordisk A/S** - *2018-2021* - Early Research in Seattle, USA
-
+  
     Industrial research for biomarkers and target discovery in T1D, Immunology, and Kidney Research Unit through integrative systems medicine approach as a part of IMI delivery. Special focus on Diabetes and Chronic Kidney Diseases(currently End-Stage) as a part of integrating multi-omics discovery(NGS, Microarray, targeted NanoString Panels and Clinical data) from varied tissue sources extracted from patients/model organisms to deliver new research insights for therapies.
 
 - **Post Doctoral Scientist in European Institute of Oncology** - *2017-2018* - Early Oncology Research in Milan, Italy
 
   Post PhD project follow-ups, transition and closure in both the cancer models (Glioblastoma recurrence and Ovarian Cancer) that I have worked on past 4.5 years using NGS technologies for Omics integration (from patients to gene networks).
+
+- **Programmer Analyst in Cognizant** - *2010-2012* - Database management, Programming in PERL, Java & SQL in Kolkata, India
+
+  Experienced in Software Development analysis and testing of softwares for both business and scientific innovation. In this organization I worked both as a Software Developer and an IT infrastructure maintenance project within Retail and Life Sciences domain as a part of Master Data Management (MDM) consulting. My final project was that of a Support Analyst maintaining and enhancing Life Science Database using Oracle (SQL programming) for Leading Pharmaceutical company, handling of critical issues, bug analysis to provide solutions and fixes. 
 
 ## Education
 
@@ -108,6 +112,7 @@ Scientific advice and suggestions on the utility of current and potential featur
 
 - [Medium](https://medium.com/@ivivek87)
 - [ResearchGate](https://www.researchgate.net/profile/Vivek-Das-4)
+- [Quora](https://www.quora.com/profile/Vivek-Das-10)
 
 ## Topic of interest
 
