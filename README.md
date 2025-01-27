@@ -90,6 +90,8 @@ Scientific advice and suggestions on the utility of current and potential featur
 
 - [Transition from PhD to Industry](https://youtu.be/NPx31UgMHC8?si=yNkqnyIisBIPOV1F)
 
+- [EASD 2023 oral presentation on Multiomics, clinical data integration in T2D ASCVD patients](https://www.easd.org/media-centre/#!resources/application-of-multiomics-to-identify-novel-molecular-mechanisms-of-atherosclerotic-plaque-instability-in-type-2-diabetes-patients)
+
 - [Vivek Das Novo Nordisk KGDD4](https://youtu.be/4oGDmodbeJc?si=5P46zokm6XNR05uX)
 
 - [From omics to insights in early drug discovery and late-stage clinical development](https://www.youtube.com/watch?v=Vzl4_G_KVj4)
