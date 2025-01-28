@@ -100,7 +100,18 @@ Scientific advice and suggestions on the utility of current and potential featur
 
 - [Computational Biologist Interview](https://theinterviewportal.com/2021/04/12/computational-biologist-interview-7/)
 
+## Certifications and Awards
+
+- *Machine Learning for Single Cell Analysis (Issued 2020)* - Yale Genetics and Yale SEASYale Genetics and Yale SEAS
   
+- *GATK variant analysis (Issued 2017)* - GATK Team Broad Institute
+  
+- *Workshop in Systems Biology by EPIGEN in TIGEM, Naples (Issued 2013)* - National Research Council of Italy
+  
+- *AIRC-FIRC Fellowship* - Recipient of the 3-year AIRC-FIRC cancer research fellowship to carry independent research in the field of cancer biology between *2014-2017*
+  
+- *FEBS Travel grant award at ENABLE 2017 symposium for poster presentation* - Recipient of Travel grant award for the poster presented at ENABLE 2017 symposium in Barcelona
+
 ## How to reach out
 
 - 📫 vivekdas.0687@gmail.com
