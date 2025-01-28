@@ -32,11 +32,11 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 
 - **Post Doctoral Scientist in European Institute of Oncology** - *2017-2018* - Early Oncology Research in Milan, Italy
 
-  Post PhD project follow-ups, transition and closure in both the cancer models (Glioblastoma recurrence and Ovarian Cancer) that I have worked on past 4.5 years using NGS technologies for Omics integration (from patients to gene networks).
+  Post PhD project follow-ups, transition and closure in both the cancer models (Glioblastoma recurrence and Ovarian Cancer) that I have worked on during PhD years using NGS technologies for Omics integration (from patients to gene networks).
 
 - **Programmer Analyst in Cognizant** - *2010-2012* - Database management, Programming in PERL, Java & SQL in Kolkata, India
 
-  Experienced in Software Development analysis and testing of softwares for both business and scientific innovation. In this organization I worked both as a Software Developer and an IT infrastructure maintenance project within Retail and Life Sciences domain as a part of Master Data Management (MDM) consulting. My final project was that of a Support Analyst maintaining and enhancing Life Science Database using Oracle (SQL programming) for Leading Pharmaceutical company, handling of critical issues, bug analysis to provide solutions and fixes. 
+  Experienced in algorithm development, Software Development, deployment, and unit testing for both business and scientific innovation. In this organization I worked both as a Software Developer and an IT infrastructure maintenance consultant within Retail and Life Sciences vertical as a part of Master Data Management (MDM) horizontal in a matrix setting. My final project was that of a Support Programmer Analyst maintaining and enhancing a Life Science Database using Oracle (SQL programming) for a leading pharmaceutical company where I handled critical issues, performed bug analysis and system integration via  programmatic solution. 
 
 ## Education
 
