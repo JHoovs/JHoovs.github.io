@@ -33,6 +33,7 @@ Computer Based Genetics Laboratory | Genetic & Evolutionary Biology | Adv. Mamma
 ### Work Experience
 
 Business Development Manager @ White Labs Inc.
+
 2018-Present
 
 - Led technical sales strategy partnering with breweries to optimize yeast performance and reduce costs through process audits and cellar practice improvements.
