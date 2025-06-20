@@ -1,7 +1,8 @@
 # Bioinformatics Graduate Student
 
 ### Education
-Bioinformatics, MS - Johns Hopkins University/n
+Bioinformatics, MS - Johns Hopkins University
+
 Biological Science, BA - University of Delaware
 
 ### Projects
