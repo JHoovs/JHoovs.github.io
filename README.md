@@ -1,9 +1,20 @@
 # Bioinformatics Graduate Student
 
 ### Education
+
 Bioinformatics, MS - Johns Hopkins University
 
+**GPA:** 4.0
+
+**Courses:** 
+
+Applied Machine Learning | Gene Expression Data Analysis & Visualization | Protein Bioinformatics | Computational Drug Discovery & Design | Algorithms for Bioinformatics | Epigenetics | Adv. Cell Biology | Genomics & Personalized Medicine | Molecular Biology
+
 Biological Science, BA - University of Delaware
+
+**Courses:** 
+
+Computer Based Genetics Laboratory | Genetic & Evolutionary Biology | Adv. Mammalian Physiology | Biochemistry | Organic Chemistry I & II | Statistics
 
 ### Bioinformatics Projects: 
 
