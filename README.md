@@ -2,7 +2,7 @@
 
 ### Education
 
-Bioinformatics, MS - Johns Hopkins University
+**Bioinformatics, MS - Johns Hopkins University**
 
 **GPA:** 4.0
 
@@ -10,7 +10,7 @@ Bioinformatics, MS - Johns Hopkins University
 
 Applied Machine Learning | Gene Expression Data Analysis & Visualization | Protein Bioinformatics | Computational Drug Discovery & Design | Algorithms for Bioinformatics | Epigenetics | Adv. Cell Biology | Genomics & Personalized Medicine | Molecular Biology
 
-Biological Science, BA - University of Delaware
+**Biological Science, BA - University of Delaware**
 
 **Courses:** 
 
