@@ -5,22 +5,22 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 ## About Me
 👋 Hi, I’m Vivek Das
 
-👀 I work on finding therapeutic targets or biomarkers (prognostic/predictive) for multiple cardiometabolic (e.g. Chronic Kidney, Atherosclerosis, Diabetes, Liver, Neurodegenerative, etc.) diseases combining data-driven and knowledge-driven avenues by leveraging the integration of bulk and single-cell multi-omics data alongside clinical data from human observational cohorts and clinical trials
+👀 I am presently leading a team of exceptional Computational Biologists and Clinical Data Scientists around cardiorenal and neuronal trials at the convergence of omics, clinical data, drug assets and, precision medicine. Previously, I worked on finding therapeutic targets and, currently the focus is more on biomarkers (prognostic/predictive/response) for multiple cardiometabolic (e.g., Chronic Kidney, Atherosclerosis, Diabetes, Liver, Neurodegenerative, etc.) diseases. We combine data-driven and knowledge-driven avenues by leveraging the integration of bulk and single-cell multi-omics data alongside clinical data from human observational cohorts and clinical trials
 
 🌱 I currently collaborate, mentor PhD/PostDocs/Data Scientists, lead studies/projects and a team of exceptional clinical data scientists and bioinformaticians involving single-cell transcriptomics, spatial transcriptomics, proteomics, metabolomics, multi-omics data integration, clinical data integration to achieve the above
 
-💻 I also worked on omics projects involving preclinical data with interventional designs e.g. knockout or drug-treated at single cell or bulk multi-omics level
+💻 I also worked on omics projects involving preclinical data with interventional designs e.g., knockout or drug-treated at single cell or bulk multi-omics level
 
 💞️ I also collaborate on developing applied machine learning models using publicly available data with curious students or researchers and contribute to open science and open source modeling. I am fascinated by the potential of high-dimensional and high-throughput biomedical data.
 
 ## Publications
 
-📚 To read more about our published works kindly check out my [Google Scholar page](https://scholar.google.it/citations?user=l_Aj58cAAAAJ&hl=en)
+📚 To read more about our published studies kindly check out my [Google Scholar page](https://scholar.google.it/citations?user=l_Aj58cAAAAJ&hl=en)
 
 ## Experience
 - **Lead Data Scientist in Novo Nordisk A/S** - *2023 - Present* - Clinical Trial Omics & Precision Medicine in Clinical Development, Soborg, Denmark
   
-  Lead, design, build, deploy, & implement integrative multi-omics strategies, in-silico analytical frameworks & interpretability in Late-Stage Clinical Trial (CardioRenal and neuronal) settings.
+  Lead a team, design, build, deploy, & implement integrative multi-omics strategies and projects, in-silico analytical frameworks & interpretability in Late-Stage Clinical Trial (CardioRenal and neuronal) settings.
   
 - **Senior Research Scientist in Novo Nordisk A/S** - *2021-2023* - Early Drug Discovery, Malov, Denmark
 
@@ -131,7 +131,7 @@ Scientific advice and suggestions on the utility of current and potential featur
 
 - Leadership
 - Applied Statistics and Applied Machine Learning
-- Multi omics and clinical data integration
+- Multi-omics and clinical data integration
 - Drug Target Identification
 - Biomarker Discovery and Development
 - Late-stage Drug development
