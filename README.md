@@ -5,11 +5,11 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 ## About Me
 👋 Hi, I’m Vivek Das
 
-👀 I am presently leading a team of exceptional Computational Biologists and Clinical Data Scientists around cardiorenal and neuronal trials at the convergence of omics, clinical data, drug assets and, precision medicine. Previously, I worked on finding therapeutic targets and, currently the focus is more on biomarkers (prognostic/predictive/response) for multiple cardiometabolic (e.g., Chronic Kidney, Atherosclerosis, Diabetes, Liver, Neurodegenerative, etc.) diseases. We combine data-driven and knowledge-driven avenues by leveraging the integration of bulk and single-cell multi-omics data alongside clinical data from human observational cohorts and clinical trials
+👀 I am presently leading a team of exceptional Computational Biologists and Clinical Data Scientists around cardiorenal and neuronal trials at the convergence of omics, clinical data, drug assets and, precision medicine. Previously, I worked on finding therapeutic targets and, currently the focus is more on biomarkers (prognostic/predictive/response) for multiple cardiometabolic (e.g., Chronic Kidney, Atherosclerosis, Heart Failure, Diabetes, Liver, Neurodegenerative, etc.) diseases. We combine data-driven and knowledge-driven avenues to facilitate Precision Medicine by leveraging the integration of bulk and single-cell multi-omics data alongside clinical data from human observational biobanks and clinical trials
 
-🌱 I currently collaborate, mentor PhD/PostDocs/Data Scientists, lead studies/projects and a team of exceptional clinical data scientists and bioinformaticians involving single-cell transcriptomics, spatial transcriptomics, proteomics, metabolomics, multi-omics data integration, clinical data integration to achieve the above
+🌱 My role enables and provides the opportunity and privilege to collaborate, engage, mentor PhD, PostDocs, Clinical Data Scientists and, Computational Biologists working in Healthcare, Clinical Omics, Applied AI/ML in Medicine
 
-💻 I also worked on omics projects involving preclinical data with interventional designs e.g., knockout or drug-treated at single cell or bulk multi-omics level
+💻 Previously, I also worked on omics projects involving preclinical data with interventional designs e.g., knockout or drug-treated at single cell or bulk multi-omics level
 
 💞️ I also collaborate on developing applied machine learning models using publicly available data with curious students or researchers and contribute to open science and open source modeling. I am fascinated by the potential of high-dimensional and high-throughput biomedical data.
 
