@@ -17,45 +17,41 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 
 **DNMT1 Structural Analysis**
 
-- Used computational modeling to study DNMT1 functional domains
-
-- Applied structural bioinformatics tools for visualization and interpretation
-
 **HDAC1 Molecular Dynamics Simulation**
 
-- Used pharmacophore modeling and simulation tools to model HDAC1-acetate interaction
-
-- Evaluated potential inhibitors via molecular docking and energy minimization
+**Differential expression of RNAseq data on loss-of-function methods targeting lncRNA in HeLa cell lines** 
 
 ## Experience
 
 - **Business Development Manager @ White Labs Inc.** - *2018 - Present* - Remote
 
-  - Led technical sales strategy partnering with breweries to optimize yeast performance and reduce costs through process audits and cellar practice improvements.
+- Elevated brand credibility as a recognized industry speaker, presenting at national fermentation science conferences and positioning the company as a trusted yeast solutions leader to audiences of 200+ professionals.
+    
+- Increased client fermentation efficiency through technical strategies, brewery process audits, and cellar practice improvements, delivering measurable cost savings and higher product quality.
 
-  - Built and expanded industry relationships through targeted conference participation and networking, driving pipeline growth and strategic partnerships.
+- Expanded sales pipeline by cultivating strategic partnerships and industry relationships through targeted conference participation and high-impact networking initiatives.
 
-  - Recognized industry speaker on fermentation science, delivering presentations that positioned the company as a thought leader and trusted yeast solutions provider.
-
-  - Leveraged CRM and data analytics to prioritize high-value accounts, improve sales forecasting, and exceed territory growth targets.
+- Improved sales forecast and exceeded annual territory revenue targets by leveraging CRM insights and data analytics to identify, prioritize, and engage high-value accounts.
 
 ## Education
 
-- **MS in Bioinformatics** from Johns Hopkins University, Baltimore, MD *2023-2025*
+- **MS in Bioinformatics, GPA:4.0** from Johns Hopkins University, Baltimore, MD *2023-2025*
+  Applied Machine Learning | Gene Expression Data Analysis & Visualization | Protein Bioinformatics | Computational Drug Discovery & Design | Algorithms for Bioinformatics | Epigenetics | Advanced Cell Biology | Genomics & Personalized Medicine | Molecular Biology | Practical Computer Concepts for Bioinformatics | Introduction to Bioinformatics
   
 - **Bachelor in Biological Sciences** (Chemistry, Genetics & Physiology) from University of Delaware *2012-2016*
+  Computer Based Genetics Laboratory | Genetic & Evolutionary Biology | Adv. Mammalian Physiology | Biochemistry | Organic Chemistry I & II | Statistics
 
-## Talks, Interviews and Articles
+## Talks and Articles
 
 - [BrewYourOwn](https://byo.com/article/pitch-to-profit/)
 - [White Labs Webinar](https://www.youtube.com/watch?v=g5JIXYYe7Ak&t=31s)
-- [CraftBeerProfessionals]
+- *CraftBeerProfessionals*
     - (https://www.youtube.com/watch?v=7KAF_H5abvQ)
     - (https://www.youtube.com/watch?v=26DTKv4OU9o)
     - (https://www.youtube.com/watch?v=EkKH-k1bl3o&t=857s)
 - [Fermentation Temperature: Understanding Esters, Phenols, and Haze Stabilization](https://www.youtube.com/watch?v=JFm9u-ZDZp4)
 
-## Certifications and Awards
+## Certifications
 
 - *Certified Cicerone* - Cicerone Certification Program
   
@@ -72,17 +68,17 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 
 ## Topic of interest
 
-- Leadership
+- Scripting: Python, R, Bash, Java, SQL
 - Applied Statistics and Applied Machine Learning
-- Multi-omics and clinical data integration
 - Drug Target Identification
 - Biomarker Discovery and Development
-- Late-stage Drug development
 - Big Data in Omics and Healthcare
-- Applied LLM in Biology and drug development
-- Single-cell and multi-omics predictive modeling
-- Digital Strategy
-- Software products
-- Team building
-- Mentorship
+- Structural Biology: GROMACs, Chimera/PyMol/VMD
+- Cloud & DevOps: AWS, Docker, Nextflow/Snakemake
+- Analytical Thinking
+- Project Management
+- Public Speaking
+- Teamwork
+- Problem Solving
+- Leadership
 
