@@ -1,6 +1,6 @@
 # Personal Website
 
-A clean, responsive, minimalist personal website with a beautiful beach color palette.
+A clean, responsive, minimalist personal website.
 
 ## Features
 
