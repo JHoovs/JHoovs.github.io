@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-widt, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blog - Jacob Hoover</title>
     <link rel="stylesheet" href="assets/css/styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
@@ -30,29 +30,155 @@
                 <p>Thoughts on technology, personalized medicine, and applications in bioinformatics.</p>
             </div>
 
-            <div class="blog-grid">
-                <div class="blog-item">
-                    <h3><a href="#" class="blog-link">Multi-Factorial Approach to Neurodegenerative Disease Prevention</a></h3>
-                    <p>Genomics research is "one of the hottest fields in medicine", yet we often lack accurate or clinically approved methods for diagnosis and treatment (McCarthy & Mendelsohn, 2016). 
-                        For example, we understand that the APOE4 gene does increase the risk of Alzheimer disease in individuals carrying one or two copies, but we are not able to correlate it to a prognosis due to the lack of fully understanding its interaction with other genetic or environmental risk factors. 
-                        In addition, large pharmaceutical companies like Pfizer and others have ceased research into drug treatments for Alzheimer disease (Dwyer, 2018). 
-                        So without recommended genetic testing or approved drug therapies, what other ways are there to combat this disease? 
-                        And how can we implement a personalized approach right now? 
-                        In the book, The Age of Scientific Wellness: Why the Future of Medicine is Personalized, Predictive, Data-Rich, and In Your Hands, the authors offer great insight into what the brain needs to function properly, especially as one ages. 
-                        Multiple factors such as diets sufficient in B-vitamin and omega-3 fatty acids, brain exercise, microbiome, sleep, social interaction, and limiting negative environmental factors like smoking can have a positive effect on brain health (Hood & Price, 2023). 
-                        With current approaches to Alzheimer's treatment labeled as, "it's better than nothing", why not seek benefits in these basic lifestyle changes? With large gene panels available for Alzheimer's risk factors and many individuals understanding their risk solely using family history, it would seem prudent for these individuals to seek out any simple means to improve their neuronal health and possibly reduce any potential risk. 
-                        A randomized, controlled trial titled FINGER shows one way to combat this disease using methods that can be personalized. 
-                        In the study, they attempted to determine if multiple lifestyle interventions could improve cognition in at-risk individuals for dementia. 
-                        The multidomain lifestyle changes in the experiment focused on "nutrition, exercise, cognitive training, and management of vascular risk factors." 
-                        The promising outcome of this trial showed these lifestyle changes to be beneficial for the at-risk elderly population, regardless of individualized factors such as sociodemographics, income, initial cognitive outcome scores, etc. (Rosenberg, 2018). 
-                        Research such as this is promising for the future. It provides evidence that these lifestyle changes can benefit brain health and it provides insight into the biological systems potentially related to neurodegenerative diseases. 
-                        Future advancements in clinical genomics will hopefully lead to approved genetic testing for such diseases so that wellness approaches, like those seen in the FINGER trial, may be incorporated earlier in life for at-risk individuals. 
-References
-C. Dwyer, "Pfizer Halts Research into Alzheimer's and Parkinson's Treatments," NPR, January 8, 2018, https://www.npr.org/sections/thetwo-way/2018/01/08/576443442/pfizer-halts-research-efforts-into-alzheimers-and-parkinsons-treatmentsLinks to an external site.
-Hood, & Price. (2023, April 4). The Age of Scientific Wellness: Why the Future of Medicine is Personalized, Predictive, Data-Rice, and in Your Hands [Print]. Harvard University Press.
-Rosenberg et al., Multidomain lifestyle intervention benefits a large elderly population at risk for cognitive decline and dementia regardless of baseline characteristics: The FINGER trial. Alzheimers Dement. 2018 Mar;14(3):263-270. doi: 10.1016/j.jalz.2017.09.006. Epub 2017 Oct 19. PMID: 29055814.
-The brain. McCarthy J.J., & Mendelsohn B.A.(Eds.), (2016). Precision Medicine: A Guide to Genomics in Clinical Practice. McGraw Hill. https://accessmedicine.mhmedical.com/content.aspx?bookid=1930&sectionid=140197983Links to an external site.</p>
-                    <small>Published: September 9, 2023</small>
+            <!-- Category Filter Buttons -->
+            <div class="blog-categories">
+                <button class="category-btn active" onclick="filterPosts('all')">All Posts</button>
+                <button class="category-btn" onclick="filterPosts('technology')">Technology</button>
+                <button class="category-btn" onclick="filterPosts('personalized-medicine')">Personalized Medicine</button>
+                <button class="category-btn" onclick="filterPosts('bioinformatics')">Bioinformatics</button>
+            </div>
+
+            <!-- Technology Section -->
+            <div class="blog-section" data-category="technology">
+                <h2>Technology</h2>
+                <div class="blog-grid">
+                    <a href="blog-posts/machine-learning-bioinformatics.html" class="blog-item">
+                        <div class="blog-image">
+                            <span>Ì¥ñ</span>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Machine Learning in Bioinformatics: A Practical Guide</h3>
+                            <p>Exploring how machine learning algorithms are revolutionizing the field of bioinformatics, from sequence analysis to drug discovery. Learn about the latest tools and techniques being used in computational biology.</p>
+                            <div class="blog-meta">
+                                <span class="blog-category">Technology</span>
+                                <span class="read-more">Read More ‚Üí</span>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="blog-posts/cloud-computing-genomics.html" class="blog-item">
+                        <div class="blog-image">
+                            <span>‚òÅÔ∏è</span>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Cloud Computing for Genomic Data Analysis</h3>
+                            <p>How cloud platforms are democratizing access to powerful computational resources for genomic research. Case studies and best practices for scaling bioinformatics workflows.</p>
+                            <div class="blog-meta">
+                                <span class="blog-category">Technology</span>
+                                <span class="read-more">Read More ‚Üí</span>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="blog-posts/ai-drug-discovery.html" class="blog-item">
+                        <div class="blog-image">
+                            <span>Ì∑¨</span>
+                        </div>
+                        <div class="blog-content">
+                            <h3>AI-Powered Drug Discovery: The Future is Now</h3>
+                            <p>Examining how artificial intelligence is accelerating the drug discovery process, from target identification to clinical trials. Real-world examples and emerging trends.</p>
+                            <div class="blog-meta">
+                                <span class="blog-category">Technology</span>
+                                <span class="read-more">Read More ‚Üí</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Personalized Medicine Section -->
+            <div class="blog-section" data-category="personalized-medicine">
+                <h2>Personalized Medicine</h2>
+                <div class="blog-grid">
+                    <a href="blog-posts/neurodegenerative-disease-prevention.html" class="blog-item">
+                        <div class="blog-image">
+                            <span>Ì∑†</span>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Multi-Factorial Approach to Neurodegenerative Disease Prevention</h3>
+                            <p>Exploring how lifestyle interventions, genetic risk factors, and personalized approaches can help prevent neurodegenerative diseases like Alzheimer's. Based on the promising FINGER trial results.</p>
+                            <div class="blog-meta">
+                                <span class="blog-category">Personalized Medicine</span>
+                                <span class="read-more">Read More ‚Üí</span>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="blog-posts/precision-oncology.html" class="blog-item">
+                        <div class="blog-image">
+                            <span>ÌæØ</span>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Precision Oncology: Tailoring Cancer Treatment to the Individual</h3>
+                            <p>How genomic profiling is revolutionizing cancer treatment by identifying specific mutations and biomarkers that guide personalized therapeutic decisions.</p>
+                            <div class="blog-meta">
+                                <span class="blog-category">Personalized Medicine</span>
+                                <span class="read-more">Read More ‚Üí</span>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="blog-posts/pharmacogenomics.html" class="blog-item">
+                        <div class="blog-image">
+                            <span>Ì≤ä</span>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Pharmacogenomics: Right Drug, Right Dose, Right Patient</h3>
+                            <p>Understanding how genetic variations affect drug metabolism and response, leading to safer and more effective medication prescribing practices.</p>
+                            <div class="blog-meta">
+                                <span class="blog-category">Personalized Medicine</span>
+                                <span class="read-more">Read More ‚Üí</span>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+            <!-- Bioinformatics Applications Section -->
+            <div class="blog-section" data-category="bioinformatics">
+                <h2>Applications in Bioinformatics</h2>
+                <div class="blog-grid">
+                    <a href="blog-posts/single-cell-sequencing.html" class="blog-item">
+                        <div class="blog-image">
+                            <span>Ì¥¨</span>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Single-Cell Sequencing: Unraveling Cellular Heterogeneity</h3>
+                            <p>How single-cell RNA sequencing is revealing the complexity of cellular populations and providing insights into development, disease, and therapeutic targets.</p>
+                            <div class="blog-meta">
+                                <span class="blog-category">Bioinformatics</span>
+                                <span class="read-more">Read More ‚Üí</span>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="blog-posts/protein-structure-prediction.html" class="blog-item">
+                        <div class="blog-image">
+                            <span>Ì∑™</span>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Protein Structure Prediction: From AlphaFold to Clinical Applications</h3>
+                            <p>Exploring the impact of deep learning on protein structure prediction and how these advances are accelerating drug discovery and understanding disease mechanisms.</p>
+                            <div class="blog-meta">
+                                <span class="blog-category">Bioinformatics</span>
+                                <span class="read-more">Read More ‚Üí</span>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="blog-posts/metagenomics-microbiome.html" class="blog-item">
+                        <div class="blog-image">
+                            <span>Ì∂†</span>
+                        </div>
+                        <div class="blog-content">
+                            <h3>Metagenomics and the Human Microbiome</h3>
+                            <p>How computational analysis of microbial communities is revealing the complex relationships between our microbiome and health, disease, and personalized medicine.</p>
+                            <div class="blog-meta">
+                                <span class="blog-category">Bioinformatics</span>
+                                <span class="read-more">Read More ‚Üí</span>
+                            </div>
+                        </div>
+                    </a>
                 </div>
             </div>
         </div>
@@ -63,11 +189,29 @@ The brain. McCarthy J.J., & Mendelsohn B.A.(Eds.), (2016). Precision Medicine: A
         <p>&copy; 2024 Jacob Hoover. All rights reserved.</p>
     </footer>
 
-    <!-- JavaScript for mobile menu -->
+    <!-- JavaScript for mobile menu and category filtering -->
     <script>
         function toggleMenu() {
             const navMenu = document.querySelector('.nav-menu');
             navMenu.classList.toggle('active');
+        }
+
+        function filterPosts(category) {
+            // Update active button
+            document.querySelectorAll('.category-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+
+            // Show/hide sections based on category
+            const sections = document.querySelectorAll('.blog-section');
+            sections.forEach(section => {
+                if (category === 'all' || section.dataset.category === category) {
+                    section.style.display = 'block';
+                } else {
+                    section.style.display = 'none';
+                }
+            });
         }
     </script>
 </body>
