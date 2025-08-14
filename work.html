@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Work - Your Name</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">Your Name</a>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="work.html" class="nav-link">Work</a></li>
+                <li><a href="blog.html" class="nav-link">Blog</a></li>
+                <li><a href="resume.html" class="nav-link">Resume</a></li>
+            </ul>
+            <button class="nav-toggle" onclick="toggleMenu()">☰</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <div class="page-header">
+                <h1>Work Experience</h1>
+                <p>My professional journey and key projects</p>
+            </div>
+
+            <div class="work-grid">
+                <div class="work-item">
+                    <h3>Senior Software Engineer - Tech Company</h3>
+                    <p>Led development of a microservices-based e-commerce platform serving 1M+ users. Implemented CI/CD pipelines, improved system performance by 40%, and mentored junior developers.</p>
+                </div>
+
+                <div class="work-item">
+                    <h3>Full Stack Developer - Startup</h3>
+                    <p>Built a real-time collaboration tool using React, Node.js, and WebSockets. Designed and implemented the database schema, API endpoints, and frontend components.</p>
+                </div>
+
+                <div class="work-item">
+                    <h3>Software Engineer - Enterprise Corp</h3>
+                    <p>Developed and maintained internal tools for data analysis and reporting. Worked with Python, SQL, and various data visualization libraries to create dashboards for business intelligence.</p>
+                </div>
+
+                <div class="work-item">
+                    <h3>Frontend Developer - Agency</h3>
+                    <p>Created responsive web applications for various clients using modern JavaScript frameworks. Collaborated with designers to implement pixel-perfect UI/UX designs.</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+
+    <!-- JavaScript for mobile menu -->
+    <script>
+        function toggleMenu() {
+            const navMenu = document.querySelector('.nav-menu');
+            navMenu.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>

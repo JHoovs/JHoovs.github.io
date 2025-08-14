@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-widh, initial-scale=1.0">
+    <title>Your Name - Personal Website</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <a href="index.html" class="nav-logo">Your Name</a>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Home</a></li>
+                <li><a href="work.html" class="nav-link">Work</a></li>
+                <li><a href="blog.html" class="nav-link">Blog</a></li>
+                <li><a href="resume.html" class="nav-link">Resume</a></li>
+            </ul>
+            <button class="nav-toggle" onclick="toggleMenu()">☰</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main-content">
+        <div class="container">
+            <!-- Hero Section -->
+            <section class="hero">
+                <div class="profile-photo">
+                    <img src="assets/images/profile.svg" alt="Profile Photo" style="width: 100%; height: 100%; border-radius: 50%;">
+                </div>
+                <h1>Hi, I'm [Your Name]</h1>
+                <p>Software Engineer with 5+ years of experience building scalable web applications. 
+                   Passionate about clean code, user experience, and emerging technologies. 
+                   Currently focused on full-stack development and cloud architecture.</p>
+            </section>
+
+            <!-- Sections Grid -->
+            <div class="sections-grid">
+                <!-- Work Section -->
+                <div class="section-card">
+                    <h3>Work</h3>
+                    <p>Explore my professional experience, key projects, and technical achievements across various roles and industries.</p>
+                    <a href="work.html" class="see-all-link">See All</a>
+                </div>
+
+                <!-- Blog Section -->
+                <div class="section-card">
+                    <h3>Blog</h3>
+                    <p>Thoughts on technology, development practices, and insights from my journey in software engineering.</p>
+                    <a href="blog.html" class="see-all-link">See All</a>
+                </div>
+
+                <!-- Resume Section -->
+                <div class="section-card">
+                    <h3>Resume</h3>
+                    <p>Download my comprehensive resume with detailed experience, skills, and qualifications for your review.</p>
+                    <a href="resume.html" class="see-all-link">See All</a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+
+    <!-- JavaScript for mobile menu -->
+    <script>
+        function toggleMenu() {
+            const navMenu = document.querySelector('.nav-menu');
+            navMenu.classList.toggle('active');
+        }
+    </script>
+</body>
+</html>
