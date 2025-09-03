@@ -4,7 +4,7 @@ A clean, responsive, minimalist personal website.
 
 ## Features
 
-- **Responsive Design**: Works perfectly on desktop, tablet, and mobile devices
+- **Responsive Design**: Works on desktop, tablet, and mobile devices
 - **Modern UI**: Clean, minimalist design with smooth animations
 - **Beach Color Palette**: Soft blues and sandy neutrals for a calming aesthetic
 - **Fast Loading**: Optimized CSS and lightweight design
